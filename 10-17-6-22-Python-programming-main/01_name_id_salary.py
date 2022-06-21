@@ -1,0 +1,5 @@
+id=int(input("Enter your Id:"))
+name=input("Enter your Name:")
+salary=int(input("Enter your Salary:"))
+print("Your id is: {} , Name is: {} and Salary is: {}".format(id,name,salary))
+print(f"Your id is {id} , Name is: {name} and Salary is: {salary}")
